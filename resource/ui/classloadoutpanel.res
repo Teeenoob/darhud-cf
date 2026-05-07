@@ -285,7 +285,7 @@
 		"ControlName"	"CLoadoutPresetPanel"
 		"FieldName"		"loadout_preset_panel"
 		"zpos"			"20"
-		"wide"			"150"
+		"wide"			"225"
 		"tall"			"25"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -533,7 +533,7 @@
 		"textAlignment"		"center"
 		"font"				"HudFontMediumBold"
 		"scaleImage"		"1"
-		"command"			"sv_cheats 1;r_skin 0"
+		"command"			"skinred"
 		"paintbackground"	"1"
 
 		"defaultbgColor_override" "HUDRedTeamSolid"
@@ -565,7 +565,7 @@
 		"textAlignment"		"center"
 		"font"				"HudFontMediumBold"
 		"scaleImage"		"1"
-		"command"			"sv_cheats 1;r_skin 1"
+		"command"			"skinblu"
 		"paintbackground"	"1"
 
 		"defaultbgColor_override" "HUDBlueTeamSolid"

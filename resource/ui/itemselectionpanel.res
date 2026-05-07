@@ -279,6 +279,48 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
+	
+	"ShowModItems"
+	{
+		"ControlName"	"CheckButton"
+		"fieldName"		"ShowModItems"
+		"labelText"		"#Selection_ShowModItems"
+		"Font"			"HudFontSmallestBold"
+		"textAlignment"	"east"
+		"xpos"			"c-306"
+		"ypos"			"335"
+		"zpos"			"1"
+		"wide"			"140"
+		"tall"			"25"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"command"		"checkbox_moditem_changed"
+	}
+	
+	"ShowTF2Items"
+	{
+		"ControlName"	"CheckButton"
+		"fieldName"		"ShowTF2Items"
+		"labelText"		"#Selection_ShowTF2Items"
+		"Font"			"HudFontSmallestBold"
+		"textAlignment"	"east"
+		"xpos"			"c-156"
+		"ypos"			"335"
+		"zpos"			"1"
+		"wide"			"140"
+		"tall"			"25"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"command"		"checkbox_tf2item_changed"
+	}
 
 	"ShowBackpack"
 	{
