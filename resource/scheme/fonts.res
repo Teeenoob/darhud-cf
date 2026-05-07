@@ -715,6 +715,18 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"SplashTextFont"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"12"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" 	"1"
+				"fgcolor"	"255 255 0 255"
+			}
+		}
 		"HudFontSmallestBold"
 		{
 			"1"
@@ -836,6 +848,17 @@ Scheme
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
+			}
+		}
+		"RosettaLarge"
+		{
+			"1"
+			{
+				"Name"			"TF2 Secondary"
+				"tall"			"18"
+				"weight"	"100"
+				"antialias" "1"
+				//"dropshadow"	"1"
 			}
 		}
 		GameUIButtons
