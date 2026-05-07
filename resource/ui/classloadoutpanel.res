@@ -688,4 +688,42 @@
 			}
 		}
 	}
+	
+	"ExtraLoadoutButton"
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"ExtraLoadoutButton"
+		"labelText"		""
+		"xpos"			"c-166"
+		"ypos"			"c-126"
+		"zpos"			"2"
+		"wide"			"25"
+		"tall"			"25"
+		"autoResize"	"0"
+		"pinCorner"		"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"0"
+		"Command"		"extraloadout"
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+
+		"SubImage"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"SubImage"
+			"xpos"			"4"
+			"ypos"			"4"
+			"zpos"			"1"
+			"wide"			"17"
+			"tall"			"17"
+			"visible"		"1"
+			"enabled"		"1"
+			"scaleImage"	"1"
+			"image"			"../hud/ico_spy"
+		}
+	}
 }
