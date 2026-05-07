@@ -243,6 +243,24 @@
 		"mouseinputenabled"	"1"
 	}	
 	
+	"SplashTextLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"SplashTextLabel"
+		"xpos"			"c-285"
+		"ypos"			"150"
+		"zpos"			"2"
+		"wide"			"256"
+		"tall"			"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"center"
+		"labelText"		"Better than ever!"
+		"font"			"SplashTextFont"
+		"fgcolor"		"255 255 0 255"
+		"mouseinputenabled"	"0"
+	}
+	
 	"TFLogoEasterEgg"
 		{
 			"ControlName"	"CExButton"
